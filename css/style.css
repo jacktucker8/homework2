@@ -47,3 +47,14 @@ div {
   color: black;
   text-shadow: 5px 5px 2px #c7e2c7;
 }
+
+#green {
+  background-color: #008000;
+  text-align: left;
+}
+
+footer {
+  text-align: right;
+  padding-top: 10px;
+  padding-right: 10px;
+}
