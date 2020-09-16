@@ -1,5 +1,5 @@
 body {
-  font-family: "Lucida Grande", Arial;
+  font-family: "Lucida Grande", Sans-Serif;
   color: white;
   background-color: #000000;
 }
@@ -27,7 +27,7 @@ img {
 }
 
 div {
-  line-height: 150px;
+  min-height: 150px;
   padding-top: 25px;
 }
 
