@@ -30,3 +30,8 @@ div {
   line-height: 150px;
   padding-top: 25px;
 }
+
+div.red {
+  background-color: #ff0000;
+  text-align: right;
+}
