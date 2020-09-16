@@ -35,3 +35,8 @@ div {
   background-color: #ff0000;
   text-align: right;
 }
+
+#blue {
+  background-color: #0000ff;
+  text-align: left;
+}
