@@ -40,3 +40,10 @@ div {
   background-color: #0000ff;
   text-align: left;
 }
+
+#yellow {
+  background-color: #ffff00;
+  text-align: right;
+  color: black;
+  text-shadow: 5px 5px 2px #c7e2c7;
+}
